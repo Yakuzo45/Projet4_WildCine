@@ -1,4 +1,3 @@
-projet4_WildCIne
+Projet 4 - Wild Ciné
 ================
-
-A Symfony project created on January 15, 2019, 9:35 am.
+Projet crée en Symfony 3.4 le 15 / 01 / 2019 à 10:16.
